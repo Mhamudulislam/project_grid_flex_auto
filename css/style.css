@@ -1,0 +1,245 @@
+/* border_style start */
+.container
+{background-color: #F8F9FA;}
+.box1
+{width: 100px; height: 100px; background-color: tomato; animation: ball .88s infinite; position: relative;}
+.box2
+{width: 500px; height: 10px; background-color: rgb(14, 9, 9);}
+@keyframes ball
+{0%{left: 0; top: 0;} 50%{left: 450px; top: 0;} 100%{left: -100px; top: 0;}}
+.headlin
+{width: 132%; transform: translate(-50px , 10px);}
+/* round_style end */
+
+
+/* first_col_flexbox_start */
+.new
+{padding: 20% 0 0%;}
+.box3
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.bfr
+{border: 0;}
+h1
+{text-align: center;}
+/* first_col_flexbox_end */
+
+
+
+
+
+/* sc_col_flexbox_start */
+.sco
+{padding: 20% 0% 0%;}
+.box4
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.new2
+{border: 0;}
+.sco2
+{padding: 2% 0% 0%;}
+.box5
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.new3
+{border: 0;}
+/* sc_col_flexbox_end */
+
+
+/* sc_col_flexbox_start */
+.sco3
+{padding: 20% 0% 0%;}
+.box6
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.sco4
+{padding: 3% 0% 0%;}
+.new4
+{border: 0;}
+/* sc_col_flexbox_end */
+
+
+
+/* sc_col_flexbox_start */
+.sco5
+{padding: 20% 0% 0%;}
+.box7
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.new5
+{border: 0;}
+.sco6
+{padding: 3% 0% 0%;}
+/* sc_col_flexbox_end */
+
+
+
+/* sc_col_flexbox_star */
+.sco7
+{padding: 20% 0% 0%;}
+.box8
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.new6
+{border: 0;}
+.sco8
+{padding: 3% 0% 0%;}
+/* sc_col_flexbox_end */
+
+
+
+
+/* sc_col_flexbox_star */
+.sco9
+{padding: 20% 0% 0%;}
+.box9
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.new7
+{border: 0;}
+.sco10
+{padding: 3% 0% 0%;}
+/* sc_col_flexbox_end */
+
+
+
+/* sc_col_flexbox_star */
+.sco11
+{padding: 20% 0% 0%;}
+.box9
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.new7
+{border: 0;}
+.sco12
+{padding: 3% 0% 0%;}
+/* sc_col_flexbox_end */
+
+
+
+/* sc_col_flexbox_start */
+.sco13
+{padding: 20% 0% 0%;}
+.box10
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.new7
+{border: 0;}
+.sco14
+{padding: 3% 0% 0%;}
+/* sc_col_flexbox_end */
+
+
+
+
+/* sc_col_flexbox_start */
+.sco15
+{padding: 20% 0% 0%;}
+.box11
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.new7
+{border: 0;}
+.new7_8
+{border-bottom: 1px solid;}
+.sco16
+{padding: 3% 0% 0%;}
+/* sc_col_flexbox_end */
+
+
+
+
+/* sc_col_flexbox_start */
+.sco16
+{padding: 20% 0% 0%;}
+.box12
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.new7
+{border: 0;}
+.new7_8
+{border-bottom: 1px solid;}
+.sco17
+{padding: 3% 0% 0%;}
+/* sc_col_flexbox_end */
+
+
+
+
+
+/* sc_col_flexbox_start */
+.sco18
+{padding: 20% 0% 0%;}
+.box13
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.new7
+{border: 0;}
+.new7_8
+{border-bottom: 1px solid;}
+.sco19
+{padding: 3% 0% 0%;}
+/* sc_col_flexbox_end */
+
+
+
+
+
+
+
+/* sc_col_flexbox_start */
+.sco18
+{padding: 20% 0% 0%;}
+.box14
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.new7
+{border: 0;}
+.new7_8
+{border-bottom: 1px solid;}
+.sco19
+{padding: 3% 0% 0%;}
+/* sc_col_flexbox_end */
+
+
+
+
+
+
+
+/* sc_col_flexbox_start */
+.sco18
+{padding: 20% 0% 0%;}
+.box15
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.new7
+{border: 0;}
+.new7_8
+{border-bottom: 1px solid;}
+.sco19
+{padding: 3% 0% 0%;}
+/* sc_col_flexbox_end */
+
+
+
+
+
+/* sc_col_flexbox_start */
+.sco18
+{padding: 20% 0% 0%;}
+.box16
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.new7
+{border: 0;}
+.new7_8
+{border-bottom: 1px solid;}
+.sco19
+{padding: 3% 0% 0%;}
+/* sc_col_flexbox_end */
+
+
+
+
+
+
+/* sc_col_flexbox_start */
+.sco20
+{padding: 20% 0% 10%;}
+.box17
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+.new7
+{border: 0;}
+.new7_8
+{border-bottom: 1px solid;}
+.sco21
+{padding: 3% 0% 0%;}
+.box18
+{height: 50px; background-color: #EAE0FE; border-right: 1px solid #5521bd;}
+/* sc_col_flexbox_end */
